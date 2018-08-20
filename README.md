@@ -1,4 +1,4 @@
-#  Prediction-of-House-prices-in-Ames, Iowa-Machine-Learning
+#  Prediction of House prices in Ames, Iowa using Machine Learning
 Used Machine learning on WEKA to determine the best predictive model for house sale prices in Iowa using a historical database of the sales prices of houses in Ames, Iowa.
 
 -> Analyzed sales prices of houses in Ames, Iowa from 2006-2010 using a machine learning software called WEKA.
