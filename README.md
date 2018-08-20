@@ -10,5 +10,6 @@ Used Machine learning on WEKA to determine the best predictive model for house s
 
 
 Software used in the project - WEKA
+
 Other Contributors: Amy Rettig, Chaitali Bonke, Swati Kohli and Tapan Patel.
 
