@@ -7,9 +7,9 @@ Used Machine learning on WEKA to determine the best predictive model for house s
 
 -> Carried out data preprocessing - handling missing values, irrelevant attributes and skewed attributes. 
 
-Source of data:   Kaggle 
+Source of data: Kaggle 
 
-Software used in the project:   WEKA
+Software used in the project: WEKA
 
-Other Contributors:   Amy Rettig, Chaitali Bonke, Swati Kohli and Tapan Patel.
+Other Contributors: Amy Rettig, Chaitali Bonke, Swati Kohli and Tapan Patel.
 
