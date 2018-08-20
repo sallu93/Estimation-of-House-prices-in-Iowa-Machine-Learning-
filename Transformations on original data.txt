@@ -1,0 +1,31 @@
+compressed types of porch
+changed NA to ?
+delete ID attribute
+convert MSSubClass from numeric to nominal (in weka)
+lot area >40000, =40000
+lot frontage >200, =200
+masonry vaneer area >1100. =1100
+BsmtFinSF1 >1900, =1900
+BsmtFinSF2 >1100, =1100
+TotalBsmtSF >3200, =3200
+1stFlrSF >3000, =3000
+2ndFlrSF >1600, =1600
+Delete Alley (missing 1369 of 1460)
+Delete PoolQC (missing 1453 of 1460)
+Delete Pool Area (1453 values = 0)
+Delete Fence (missing 1179 of 1460)
+Delete MiscFeature (missing 1406 of 1460)
+Delete MiscVal (1408 values = 0)
+Delete LowQualFinSF (1434 values =0)
+--BsmtHalfBath (1378 values = 0)
+--BsmtFinSF2 (1293 values =0)
+FireplaceQu replaced ? with none
+GarageQual replaced ? with none
+GarageCond replaced ? with none
+FireplaceQu replace ? with none
+BsmtQual replace ? with NA
+BsmtCond replace ? with NA
+BsmtExposure replace ? with NA
+BsmtFinType1 replace ? with NA
+BsmtFinType2 replace ? with NA
+
